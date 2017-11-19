@@ -100,7 +100,7 @@ h1{
 	width: 650px;
 }
 
-p#aboutMe{
+p.aboutMe{
 	font-family: Arial, sans-serif;
 	font-size: 16px;
 	color: #001;
